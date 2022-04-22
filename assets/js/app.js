@@ -24,6 +24,6 @@ for (var i = 0; i < home.length; i++) {
     home[i].onclick = function () {
         menuToggle.classList.remove('active');
         navigation.classList.remove('active');
-        bodyToggle.classList.toggle('active'); //<---litlle messy ;;
+        bodyToggle.classList.toggle('active'); //<---litlle messy ;;;
     }
 }
