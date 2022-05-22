@@ -1,5 +1,6 @@
-BlocksBlog.sublime-project
-BlocksBlog.sublime-workspace
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
 
 # Logs
 logs
